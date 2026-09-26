@@ -48,7 +48,7 @@ sudoku-puzzle-game/
 | ------------------ | ----------------------------------------------------- |
 | `sudoku_solver.py` | Core Sudoku solving engine and command-line interface |
 | `sudoku_gui.py`    | Tkinter-based graphical Sudoku game                   |
-| `README.md`        | Project documentation                                 |
+                              |
 
 > **Important:** Keep `sudoku_solver.py` and `sudoku_gui.py` in the same folder because the GUI imports the solving functions from the solver file.
 
